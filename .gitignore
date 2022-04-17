@@ -1,0 +1,6 @@
+.netrwhist
+.DS_Store
+.undo
+.vim
+plugged/
+plugin/packer_compiled.lua

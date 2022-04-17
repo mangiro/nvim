@@ -1,0 +1,8 @@
+require("plugins.ultisnips")
+require("plugins.nvim_tree")
+require("plugins.fugitive")
+require("plugins.gitsigns")
+require("plugins.diffview")
+require("plugins.scrollbar")
+require("plugins.neoscroll")
+require("plugins.treesitter")
